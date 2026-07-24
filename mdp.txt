@@ -1,0 +1,10 @@
+## Voici tes identifiants pour le nouveau serveur :
+* Adresse du fournisseur : `matrix.example.com` *(uniquement pour l'application Element)*
+* Nom d'utilisateur : ``
+* Mot de passe : ||``||
+## Pour te connecter tu as le choix entre :
+* Utiliser [Element](https://element.io/fr/download) *(version installable sur PC et mobile)*.
+* Utiliser [Element Web](https://element.example.com) *(version web sans installation)*.
+* Utiliser [Cinny](https://cinny.example.com) *(version web sans installation avec un look de Discord)*.
+
+⚠️ Change ton mot de passe dans ***Tous les paramètres*** ➜ ***Compte***.
