@@ -1,6 +1,3 @@
-# Lancer l'installation (2x si Traefik pose problème).
-just install-all
-
 # Créer un utilisateur normal.
 just register-user username password no
 
