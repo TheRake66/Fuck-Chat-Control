@@ -14,7 +14,9 @@ ansible_connection=local
 
 # Modifier la configuration de Matrix.
 nano inventory/host_vars/matrix.example.com/vars.yml
+matrix_static_files_file_index_html_enabled: false
 matrix_static_files_container_labels_base_domain_enabled: true
+matrix_static_files_container_labels_base_domain_root_path_redirection_enabled: false
 matrix_rtc_enabled: true
 max_upload_size: 50
 
