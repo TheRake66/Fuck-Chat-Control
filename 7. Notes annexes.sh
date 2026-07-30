@@ -5,7 +5,7 @@ cinny_enabled: true
 # Pour activer Ketesa (une interface d'administration).
 ketesa.example.com (CNAME) ---> matrix.example.com
 matrix_ketesa_enabled: true
-matrix_ketesa_hostname: admin.example.com
+matrix_ketesa_hostname: ketesa.example.com
 matrix_ketesa_path_prefix: /
 
 # Pour activer Jitsi (une plateforme d'appel vidéo avec des invités). Ça évite de créer des
