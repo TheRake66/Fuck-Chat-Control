@@ -3,7 +3,7 @@ cinny.example.com (CNAME) ---> matrix.example.com
 cinny_enabled: true
 
 # Pour activer Ketesa (une interface d'administration).
-admin.example.com (CNAME) ---> matrix.example.com
+ketesa.example.com (CNAME) ---> matrix.example.com
 matrix_ketesa_enabled: true
 matrix_ketesa_hostname: admin.example.com
 matrix_ketesa_path_prefix: /
