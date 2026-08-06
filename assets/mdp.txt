@@ -5,6 +5,7 @@
 ## Pour te connecter tu as le choix entre :
 * Utiliser [Element](https://element.io/fr/download) *(version installable sur PC et mobile)*.
 * Utiliser [Element Web](https://element.example.com) *(version web sans installation)*.
-* Utiliser [Cinny](https://cinny.example.com) *(version web sans installation avec un look de Discord)*.
+* Utiliser [Cinny](https://github.com/cinnyapp/cinny-desktop) *(version installable sur PC avec un look de Discord)*.
+* Utiliser [Cinny Web](https://cinny.example.com) *(version web sans installation avec un look de Discord)*.
 
 ⚠️ Change ton mot de passe dans ***Tous les paramètres*** ➜ ***Compte***.
